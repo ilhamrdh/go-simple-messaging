@@ -1,0 +1,16 @@
+2024/12/06 10:18:26 successfully connected to mongoDB
+2024/12/06 10:19:11 Failed to insert new user:  Error 1062 (23000): Duplicate entry 'ichaaaaa' for key 'uni_users_username'
+2024/12/06 10:19:26 Failed to validate request:  Key: 'User.Fullname' Error:Field validation for 'Fullname' failed on the 'required' tag
+2024/12/06 13:44:05 successfully connected to mongoDB
+2024/12/06 13:56:20 Failed to insert new user:  Error 1062 (23000): Duplicate entry 'ichaaaaa' for key 'uni_users_username'
+2024/12/06 13:56:26 Failed to validate request:  Key: 'User.Fullname' Error:Field validation for 'Fullname' failed on the 'required' tag
+2024/12/06 13:56:30 Failed to validate request:  Key: 'User.Fullname' Error:Field validation for 'Fullname' failed on the 'required' tag
+Key: 'User.Username' Error:Field validation for 'Username' failed on the 'required' tag
+2024/12/06 20:20:00 successfully connected to mongoDB
+2024/12/06 20:23:37 successfully connected to mongoDB
+2024/12/06 20:24:12 Failed to validate request:  Key: 'User.Fullname' Error:Field validation for 'Fullname' failed on the 'required' tag
+Key: 'User.Username' Error:Field validation for 'Username' failed on the 'required' tag
+2024/12/06 20:24:20 Failed to validate request:  Key: 'User.Fullname' Error:Field validation for 'Fullname' failed on the 'required' tag
+2024/12/06 20:26:09 failed to parse jwt: token has invalid claims: token is expired
+2024/12/06 20:32:08 successfully connected to mongoDB
+2024/12/12 20:20:12 successfully connected to mongoDB
