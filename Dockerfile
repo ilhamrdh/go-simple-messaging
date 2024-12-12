@@ -8,6 +8,8 @@ RUN go mod tidy
 
 COPY . .
 
+COPY .env ./
+
 RUN go build -o go-simple-messaging-app && chmod +x go-simple-messaging-app
 
 EXPOSE 4000
